@@ -1,0 +1,1 @@
+import{g as o,c as t,a as c,o as s,s as r}from"./index-Ml_qX-84.js";const n={},a={class:"tdesign-wrapper"};function _(d,p){const e=r("router-view");return s(),t("div",a,[c(e)])}const l=o(n,[["render",_],["__scopeId","data-v-d2d85c5e"]]);export{l as default};
